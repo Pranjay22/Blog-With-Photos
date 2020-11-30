@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: green;
+    font-size: 10px;
+    color:aliceblue;
+    font-family: cursive;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+p {
+    font-size: 30px;
+    color:darkblue;
+    font-style: cursive;
+}
+.img {
+    height: 200px;
+    width: 200px;
+}
